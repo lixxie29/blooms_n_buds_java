@@ -9,5 +9,5 @@
 <img width="1440" alt="Screenshot 2024-09-23 at 11 14 04 PM" src="https://github.com/user-attachments/assets/0db41697-e860-4e93-a123-1b7a454ca908">
 <img width="1440" alt="Screenshot 2024-09-23 at 11 14 14 PM" src="https://github.com/user-attachments/assets/417b3604-9124-4a75-8f09-3b2ba9d3853d">
 
-- aceleasi lucruri pentru products, dar doar un user cu admin rights are voie sa modifice informatiile legate de produse
+- aceleasi functionalities (crud) pentru products, dar doar un user cu admin rights are voie sa modifice informatiile legate de produse
 <img width="1440" alt="Screenshot 2024-09-23 at 11 14 42 PM" src="https://github.com/user-attachments/assets/6fe853c0-5a77-4d57-be3f-2f044ad7351a">
