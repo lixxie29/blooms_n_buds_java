@@ -35,8 +35,10 @@ public class ApiController {
         updatedUser.setRole(user.getRole());
         updatedUser.setFirstName(user.getFirstName());
         updatedUser.setLastName(user.getLastName());
-        updatedUser.setOccupation(user.getOccupation());
         updatedUser.setAge(user.getAge());
+        updatedUser.setOccupation(user.getOccupation());
+        updatedUser.setEmail(user.getEmail());
+        updatedUser.setPassword(user.getPassword());
         userRepo.save(updatedUser);
         return ">>> updated user";
     }
