@@ -1,4 +1,6 @@
 -> just rest api, no frontend part
+
+
 -> java spring boot, web, jpa, spring security, mysql(+mysql workbench), postman
 - inregistrarea/crearea unui utilizator nou
 - editarea/modificarea unui utilizator existent (daca vrem sa ii modificam parola, spre exemplu, sau numele/prenumele)
